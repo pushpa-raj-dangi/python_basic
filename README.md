@@ -1,2 +1,3 @@
 # python_basic
-python basic note 
+
+python basic note for begginers
